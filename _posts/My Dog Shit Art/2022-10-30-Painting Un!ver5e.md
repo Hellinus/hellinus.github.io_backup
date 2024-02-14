@@ -5,4 +5,4 @@ categories: [My Dog 5h!t Art]
 tags: [Painting]
 ---
 
-![Un!ver5e](../../assets/img/MyDogShitArt/Universe.png)
+![Un!ver5e](../assets/img/MyDogShitArt/Universe.png)

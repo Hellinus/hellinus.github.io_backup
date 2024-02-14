@@ -5,4 +5,4 @@ categories: [My Dog 5h!t Art]
 tags: [Modeling]
 ---
 
-![Mounta!n](../../assets/img/MyDogShitArt/Mountain.png)
+![Mounta!n](../assets/img/MyDogShitArt/Mountain.png)

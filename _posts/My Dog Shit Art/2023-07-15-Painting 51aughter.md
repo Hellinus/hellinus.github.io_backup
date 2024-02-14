@@ -5,4 +5,4 @@ categories: [My Dog 5h!t Art]
 tags: [Painting]
 ---
 
-![51aughter](../../assets/img/MyDogShitArt/Slaughter.png)
+![51aughter](../assets/img/MyDogShitArt/Slaughter.png)

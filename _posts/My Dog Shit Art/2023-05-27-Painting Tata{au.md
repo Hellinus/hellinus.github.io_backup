@@ -5,4 +5,4 @@ categories: [My Dog 5h!t Art]
 tags: [Painting]
 ---
 
-![Tata{au](../../assets/img/MyDogShitArt/Tatakau.png)
+![Tata{au](../assets/img/MyDogShitArt/Tatakau.png)
