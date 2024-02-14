@@ -63,13 +63,21 @@ So various are the individual meanings of a city, even while its form may be eas
 
 If an image is to have value for orientation in the living space, it must have several qualities:
 -   must be sufficient, true in a pragmatic sense, allowing the individual to operate within his environment to the extent desired.
+
     *A map must get one home.*
+
 -   must be sufficiently clear and well integrated to be economical of mental effort.
+
     *A map must be readable.*
+
 -   should be safe, with a surplus of clues so that alternative actions are possible and the risk of failure is not too high.
+
     *If a blinking light is the only sign for a critical turn, a power failure may cause disaster.*
+
 -   should preferably be open-ended, adaptable to change, allowing the individual to continue to investigate and organize reality.
+
     *There should be blank spaces where he can extend the drawing for himself.*
+    
 -   should in some measure be communicable to other individuals.
 
 ## Imageability
