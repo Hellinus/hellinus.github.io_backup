@@ -1,0 +1,8 @@
+---
+title: "Painting: Red R!ver"
+date: 2022-11-15 00:00:00 +0800
+categories: [My Dog 5h!t Art]
+tags: [Painting]
+---
+
+![Red R!ver](../../assets/img/MyDogShitArt/Red River.png)
