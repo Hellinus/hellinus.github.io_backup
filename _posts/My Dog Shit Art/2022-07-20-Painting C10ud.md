@@ -5,4 +5,4 @@ categories: [My Dog 5h!t Art]
 tags: [Painting]
 ---
 
-![C10ud](../assets/img/MyDogShitArt/Cloud.png)
+![C10ud](../../assets/img/MyDogShitArt/Cloud.png)

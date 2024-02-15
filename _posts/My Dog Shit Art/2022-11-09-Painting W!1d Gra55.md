@@ -5,4 +5,4 @@ categories: [My Dog 5h!t Art]
 tags: [Painting]
 ---
 
-![W!1d Gra55](../assets/img/MyDogShitArt/Wild Grass.png)
+![W!1d Gra55](../../assets/img/MyDogShitArt/Wild%20Grass.png)

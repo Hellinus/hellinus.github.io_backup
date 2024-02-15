@@ -5,4 +5,4 @@ categories: [My Dog 5h!t Art]
 tags: [Painting]
 ---
 
-![Fa11!ng](../assets/img/MyDogShitArt/Falling.png)
+![Fa11!ng](../../assets/img/MyDogShitArt/Falling.png)

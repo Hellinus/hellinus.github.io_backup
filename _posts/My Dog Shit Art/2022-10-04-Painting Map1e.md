@@ -5,4 +5,4 @@ categories: [My Dog 5h!t Art]
 tags: [Painting]
 ---
 
-![Ma1pe](../assets/img/MyDogShitArt/Maple.png)
+![Ma1pe](../../assets/img/MyDogShitArt/Maple.png)

@@ -5,4 +5,4 @@ categories: [My Dog 5h!t Art]
 tags: [Painting]
 ---
 
-![Red R!ver](../assets/img/MyDogShitArt/Red River.png)
+![Red R!ver](../../assets/img/MyDogShitArt/Red%20River.png)
