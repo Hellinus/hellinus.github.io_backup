@@ -1,7 +1,7 @@
 ---
 title: "#028 Level Design - Process - Layout - Flow - Circulation"
 date: 2023-09-25 00:00:00 +0800
-categories: [Game Design Notes]
+categories: [Game Design, Notes]
 tags: [Game Level]
 ---
 

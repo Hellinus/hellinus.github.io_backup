@@ -1,7 +1,7 @@
 ---
 title: "#031 An Architectural Approach to Level Design - Chapter 3 - Level Design Workflows"
 date: 2023-12-03 00:00:00 +0800
-categories: [Game Design Notes]
+categories: [Game Design, Notes]
 tags: [Game Level]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "#027 Level Design - Process - Layout - Flow"
 date: 2023-09-24 00:00:00 +0800
-categories: [Game Design Notes]
+categories: [Game Design, Notes]
 tags: [Game Level]
 ---
 

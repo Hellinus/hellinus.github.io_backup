@@ -1,7 +1,7 @@
 ---
 title: "#020 Level Design - Process - Pre-production - Pacing"
 date: 2023-09-15 00:00:00 +0800
-categories: [Game Design Notes]
+categories: [Game Design, Notes]
 tags: [Game Level]
 ---
 

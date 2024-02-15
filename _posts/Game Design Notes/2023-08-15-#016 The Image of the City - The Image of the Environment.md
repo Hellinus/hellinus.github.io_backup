@@ -1,7 +1,7 @@
 ---
 title: "#016 The Image of the City - The Image of the Environment"
 date: 2023-08-15 00:00:00 +0800
-categories: [Game Design Notes]
+categories: [Game Design, Notes]
 tags: [Architecture]
 ---
 

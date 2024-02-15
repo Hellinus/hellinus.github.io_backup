@@ -1,7 +1,7 @@
 ---
 title: "#019 Level Design - Process - Pre-production"
 date: 2023-09-14 00:00:00 +0800
-categories: [Game Design Notes]
+categories: [Game Design, Notes]
 tags: [Game Level]
 ---
 

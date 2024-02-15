@@ -1,7 +1,7 @@
 ---
 title: "#026 Level Design - Process - Layout"
 date: 2023-09-22 00:00:00 +0800
-categories: [Game Design Notes]
+categories: [Game Design, Notes]
 tags: [Game Level]
 ---
 

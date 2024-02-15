@@ -1,7 +1,7 @@
 ---
 title: "#023 Level Design - Process - Pre-production - Scope"
 date: 2023-09-19 00:00:00 +0800
-categories: [Game Design Notes]
+categories: [Game Design, Notes]
 tags: [Game Level]
 ---
 

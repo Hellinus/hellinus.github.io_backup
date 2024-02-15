@@ -1,7 +1,7 @@
 ---
 title: "#018 Level Design - Process - How to make a level"
 date: 2023-09-13 00:00:00 +0800
-categories: [Game Design Notes]
+categories: [Game Design, Notes]
 tags: [Game Level]
 ---
 

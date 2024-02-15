@@ -1,7 +1,7 @@
 ---
 title: "#017 The Image of the City - The City Image and its Elements"
 date: 2023-08-16 00:00:00 +0800
-categories: [Game Design Notes]
+categories: [Game Design, Notes]
 tags: [Architecture]
 ---
 

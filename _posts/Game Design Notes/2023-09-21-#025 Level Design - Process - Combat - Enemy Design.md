@@ -1,7 +1,7 @@
 ---
 title: "#025 Level Design - Process - Combat - Enemy Design"
 date: 2023-09-21 00:00:00 +0800
-categories: [Game Design Notes]
+categories: [Game Design, Notes]
 tags: [Game Level]
 ---
 

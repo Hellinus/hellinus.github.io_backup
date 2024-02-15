@@ -1,7 +1,7 @@
 ---
 title: "#032 101 Things I Learned in Architecture School"
 date: 2024-02-12 00:00:00 +0800
-categories: [Game Design Notes]
+categories: [Game Design, Notes]
 tags: [Architecture]
 ---
 
