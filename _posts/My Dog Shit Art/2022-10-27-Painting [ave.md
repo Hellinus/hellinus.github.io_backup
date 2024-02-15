@@ -5,4 +5,4 @@ categories: [My Dog 5h!t Art]
 tags: [Painting]
 ---
 
-![\[\ave](../../assets/img/MyDogShitArt/Cave.jpg)
+![\[\ave](/assets/img/MyDogShitArt/Cave.jpg)

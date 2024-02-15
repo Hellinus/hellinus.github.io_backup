@@ -5,4 +5,4 @@ categories: [My Dog 5h!t Art]
 tags: [Painting]
 ---
 
-![No re5pond!5te a m! men5aje](../../assets/img/MyDogShitArt/No%20respondiste%20a%20mi%20mensaje.png)
+![No re5pond!5te a m! men5aje](/assets/img/MyDogShitArt/No%20respondiste%20a%20mi%20mensaje.png)

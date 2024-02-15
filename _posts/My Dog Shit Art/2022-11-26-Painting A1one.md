@@ -5,4 +5,4 @@ categories: [My Dog 5h!t Art]
 tags: [Painting]
 ---
 
-![A1one](../../assets/img/MyDogShitArt/Alone.png)
+![A1one](/assets/img/MyDogShitArt/Alone.png)

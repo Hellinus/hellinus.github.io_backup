@@ -5,4 +5,4 @@ categories: [My Dog 5h!t Art]
 tags: [Painting]
 ---
 
-![De5ert](../../assets/img/MyDogShitArt/Desert.png)
+![De5ert](/assets/img/MyDogShitArt/Desert.png)
