@@ -5,8 +5,7 @@ categories: [Game Design Notes]
 tags: [Game Level]
 ---
 
-> Overview of general workflow and concepts for video game level design
->
+> Overview of general workflow and concepts for video game level design.<br>
 > From [The Level Design Book](https://book.leveldesignbook.com/).
 
 ## Prologue: What is level design
