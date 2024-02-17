@@ -5,4 +5,4 @@ categories: [Game Design, Mind Maps]
 tags: [Game Mechanics, Mind Map]
 ---
 
-![A Short Hike 系统拆解](/assets/img/GameDesignNotes/MindMaps/A%20Short%20Hike.jpg)
+![A Short Hike 系统拆解](/assets/img/GameDesign/MindMaps/A%20Short%20Hike.jpg)

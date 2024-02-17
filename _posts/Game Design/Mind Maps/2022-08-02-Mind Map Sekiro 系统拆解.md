@@ -5,4 +5,4 @@ categories: [Game Design, Mind Maps]
 tags: [Game Mechanics, Mind Map]
 ---
 
-![Sekiro 系统拆解](/assets/img/GameDesignNotes/MindMaps/Sekiro.png)
+![Sekiro 系统拆解](/assets/img/GameDesign/MindMaps/Sekiro.png)
