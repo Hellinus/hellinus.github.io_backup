@@ -33,7 +33,7 @@ tags: [Game Project]
 
 
 ## Credits
-- 韩浩天（Cyan Han）
+- 韩浩天（Me）
 - 刘祺玉
 
 > If you have any questions please feel free to contact me<br>
