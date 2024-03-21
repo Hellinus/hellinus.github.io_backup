@@ -38,3 +38,52 @@ NO "AND THEN", USE **"THEREFORE"**
 6. Resolution: House Cup.
 7. Ending: return to home.
 
+## Character + Action = Plot
+### Character
+#### WHAT DO THEY WANT?
+> depict character's will, not the fate.
+> need - fate; want - will
+
+1st step to a story: a character that wanted something.
+
+#### WHAT ARE THEIR WEAKNESSES?
+Weaknesses are more interesting than their strengths.
+
+#### WHERE ARE THEY FROM?
+Both literal and emotional.
+
+#### WHERE ARE THEY GOING?
+From + Going = Character Arc
+
+#### WHAT CAN YOUR CHARACTERS DO TO SURPRISE YOU?
+Follow your character instead of leading.
+
+### Action
+Rising actions: Obstacls (other character or character's weakness).
+> like video games
+
+## Structure
+### The Three Act Structure
+- The Beginning
+- The Middle
+- The End
+
+### The Five Act Structure: A B D C E
+- A for **Action**: specific and concrete, physical.
+- B for **Background**: essentional info that help us determine the character's actions.
+- D for **Development**: the meat of the story, facing obstacles and developing themselves.
+- C for **Climax**: the place where the key narrative twist.
+- E for **Ending**: new life.
+
+> Good story is a **SPIRAL**.
+
+## Scene in Motion
+**Argument** or **Seduction** or **Negotiation**.
+
+Checklist:
+- [ ] An Action
+- [ ] Dialogue
+> Every sentences should do two things: deepen our understanding of the character, or advance the plot.
+- [ ] Specific Intimate Details
+- [ ] Inner Point of View: React, Reflect or Reveal
+- [ ] Definite Starting and Stoppine Point
