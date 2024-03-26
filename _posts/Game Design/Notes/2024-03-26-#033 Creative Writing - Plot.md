@@ -1,12 +1,9 @@
 ---
 title: "#033 Creative Writing - Plot"
-date: 2024-03-19 00:00:00 +0800
+date: 2024-03-26 00:00:00 +0800
 categories: [Game Design, Notes]
 tags: [Game Writing]
 ---
-
-> still constructing
-{: .prompt-warning }
 
 ## What is plot?
 Main events of a novel or story devised and presented by the writer as an **interrelated sequence**.
@@ -87,3 +84,29 @@ Checklist:
 - [ ] Specific Intimate Details
 - [ ] Inner Point of View: React, Reflect or Reveal
 - [ ] Definite Starting and Stoppine Point
+
+## Editing and Revision
+- Wait one week and revise and iterate.
+
+Checklist:
+- [ ] 1. Start with easy fixes.
+- [ ] 2. Omit needless words.
+- [ ] 3. Cut where you're doing the reader's thinking.
+- [ ] 4. Cut stage direction.
+- [ ] 5. Insure consistent character motivation.
+- [ ] 6. Has an action happened in the first paragraph?
+- [ ] 7. Is my story coherent?
+- [ ] 8. Are there complete scenes?
+- [ ] 9. Do I start each scene with something active?
+- [ ] 10. Am I writing in active voice?
+- [ ] 11. Is setting working?
+- [ ] 12. Are my characters acting believably?
+- [ ] 13. Are the transitions clear?
+- [ ] 14. Does my story fit together? (ABDCE)
+- [ ] 15. Did I explain the risks for each character?
+- [ ] 16. Did I explain the consequences of these risks?
+- [ ] 17. Does every sentence deepen character or advance plot?
+- [ ] 18. Is the second draft 10% shorter than the first?
+- [ ] 19. Am I ready to discard pages that aren't working?
+- [ ] 20. Is what you meant in your head clear on the page?
+- [ ] 21. Are my readers **NO LONGER CONFUSED?**
