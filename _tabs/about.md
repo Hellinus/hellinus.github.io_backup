@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 ![Selfie](assets/img/About/Selfie_0.jpg){: .right w="150"}
