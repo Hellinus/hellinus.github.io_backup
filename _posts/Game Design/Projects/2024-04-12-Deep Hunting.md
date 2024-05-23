@@ -17,8 +17,8 @@ tags: [Game Project]
 - Singleplayer
 - 2D
 - Horror
+- Adventure
 - Puzzle
-- Indie
 - Story-Rich
 - Cyberpunk
 - Supernatural

@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-![Selfie](assets/img/About/Selfie_0.jpg){: .right w="150"}
+![Selfie](assets/img/About/Selfie_0.png){: .right w="150"}
 <br>
 
 # **CyanHan&emsp;韩浩天**
@@ -20,7 +20,13 @@ order: 5
 ![line](assets/img/About/line.png)
 
 ## **实习经历**
-- **西山居Seed训练营**
+- [**杭州弹指宇宙科技有限公司**](https://www.sparknexa.com/home)&ensp;-&ensp;[**无尽梦回**](https://dream.sparknexa.com/)&emsp;&emsp;*4/2024 – 至今*
+    1. 介绍：弹指宇宙成立于2021年9月,是快手旗下自研游戏厂牌。《无尽梦回》是一款以梦境为题材的Roguelite动作冒险手游。
+    2. 工作职责：
+         根据游戏整体的设计框架，完成游戏内关卡或活动的设计和制作； 
+        - 根据游戏的世界观设定和区域规划，负责的设计和制作。
+
+- [**西山居Seed训练营**](https://sc.xishanju.com/#/)&emsp;&emsp;*7/2023 – 8/2023*
     1. 介绍：接受游戏设计的专业培训，作为策划参与游戏项目的开发历程。
     2. 工作收获：
         - 从行业从业者的角度学习了游戏设计和制作的具体流程；
@@ -29,6 +35,9 @@ order: 5
 ![line](assets/img/About/line.png)
 
 ## **项目经历**
+- [**Deep Hunting**](https://hellinus.com/posts/Deep-Hunting/)<br>
+    `个人项目` `故事驱动` `冒险` `恐怖` `超现实` `赛博朋克` `2D` `Unity`
+
 - [**Yao | 女儿谣**](https://hellinus.com/posts/Yao/)<br>
     `西山居Seed训练营团队作品` `故事驱动` `惊悚` `类烟火` `2D` `Unity`
     1. 玩家扮演追名逐利的记者余虹，在偏远农村意外碰到因“谣言”而起的自杀案，体验她在调查报道中逐渐醒悟，却又发现自己也将被谣言吞噬的故事。
