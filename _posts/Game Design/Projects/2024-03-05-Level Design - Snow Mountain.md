@@ -8,16 +8,16 @@ tags: [Game Level]
 > still constructing
 {: .prompt-warning }
 
-## Gameplay Video
+## GAMEPLAY VIDEO
 ### Youtube
 {% include embed/youtube.html id='rBXaxUq8iZk' %}
 
 ### Bilibili
 {% include embed/bilibili.html id='BV1D2421M7ts' %}
 
-## Inspiration
+## INSPIRATION
 
-## Design
+## DESIGN
 ### Structure
 
 ### Pacing
