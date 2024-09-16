@@ -1,5 +1,5 @@
 ---
-title: "#036 Writing in the Sciences - Introduction & Principles of effective writing"
+title: "#035 Writing in the Sciences - Introduction & Principles of effective writing"
 date: 2024-07-30 00:00:00 +0800
 categories: [Game Design, Notes]
 tags: [Writing]

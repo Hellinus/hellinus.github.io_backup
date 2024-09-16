@@ -1,5 +1,5 @@
 ---
-title: "#037 Writing in the Sciences - Verbs"
+title: "#036 Writing in the Sciences - Verbs"
 date: 2024-08-09 00:00:00 +0800
 categories: [Game Design, Notes]
 tags: [Writing]
