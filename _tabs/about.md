@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-![Selfie](assets/img/About/Selfie_0.png){: .right w="150"}
+![Selfie](assets/img/About/Selfie_0.png){: w="200"}
 <br>
 
 # **CyanHan&emsp;韩浩天**
