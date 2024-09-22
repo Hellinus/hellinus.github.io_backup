@@ -1,6 +1,6 @@
 ---
 title: "#fff Story Substance, Structure, Style and the Principles of Screenwriting - Part 1 The Writer and the Art of Story"
-date: 2024-09-18 00:00:00 +0800
+date: 2024-09-21 00:00:00 +0800
 categories: [Game Design, Notes]
 tags: [Writing]
 ---

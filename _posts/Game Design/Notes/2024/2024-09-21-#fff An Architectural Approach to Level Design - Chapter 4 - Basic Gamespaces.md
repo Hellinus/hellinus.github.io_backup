@@ -1,6 +1,6 @@
 ---
 title: "#fff An Architectural Approach to Level Design - Chapter 4 - Basic Gamespaces"
-date: 2024-09-18 00:00:00 +0800
+date: 2024-09-21 00:00:00 +0800
 categories: [Game Design, Notes]
 tags: [Game Level]
 ---
