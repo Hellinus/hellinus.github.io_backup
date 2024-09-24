@@ -7,7 +7,7 @@ order: 5
 ![Selfie](assets/img/About/Selfie_0.png){: w="200"}
 <br>
 
-# **CyanHan&emsp;韩浩天**
+# **Cyan Han&emsp;韩浩天**
 **TEL**: +86 193 3918 0102<br>
 **Mail**: [hellinus@outlook.com](mailto:hellinus@outlook.com)
 <br>
