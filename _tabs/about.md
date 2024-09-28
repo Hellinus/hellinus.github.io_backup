@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-![Selfie](assets/img/About/Selfie_0.png){: w="200"}
+![Selfie](assets/img/About/MangaAvatar_jpg.jpg){: w="300"}
 <br>
 
 # **Cyan Han&emsp;韩浩天**
