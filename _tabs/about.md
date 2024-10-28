@@ -20,14 +20,14 @@ order: 5
 ![line](assets/img/About/line.png)
 
 ## **实习经历**
-- [**杭州弹指宇宙科技有限公司**](https://www.sparknexa.com/home)&ensp;-&ensp;[**无尽梦回**](https://dream.sparknexa.com/)&emsp;&emsp;*4/2024 – 10/2024*
+- [**杭州弹指宇宙科技有限公司**](https://www.sparknexa.com/home)&ensp;-&ensp;[**无尽梦回**](https://dream.sparknexa.com/)&emsp;&emsp;**关卡策划实习生**&emsp;&emsp;*4/2024 – 10/2024*
     1. 介绍：弹指宇宙成立于2021年9月,是快手旗下自研游戏厂牌。《无尽梦回》是一款以梦境为题材的Roguelite动作冒险游戏。
     2. 工作职责：
         - 主要参与主线章节、特殊事件等关卡内容的设计与产出；
         - 参与PVP模式、交互组件的部分内容制作；
         - 总结制作经验与流程，输出文档，帮助团队规范化制作流程。
 
-- [**西山居Seed训练营**](https://sc.xishanju.com/#/)&emsp;&emsp;*7/2023 – 8/2023*
+- [**西山居Seed训练营**](https://sc.xishanju.com/#/)&emsp;&emsp;**游戏策划实习生**&emsp;&emsp;*7/2023 – 8/2023*
     1. 介绍：接受游戏设计的专业培训，作为策划参与游戏项目的开发历程。
     2. 工作收获：
         - 从行业从业者的角度学习了游戏设计和制作的具体流程；
