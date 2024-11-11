@@ -1,7 +1,15 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+# - type: github
+#   icon: "fab fa-github"
+
+- type: MainPage
+  icon: "fas fa-house"
+  url: 'https://hellinus.com/'
+
+- type: itch-io
+  icon: "fab fa-itch-io"
+  url: 'https://hellinus.itch.io/'
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
