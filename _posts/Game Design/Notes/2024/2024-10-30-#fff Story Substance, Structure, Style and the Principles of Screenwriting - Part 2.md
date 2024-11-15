@@ -67,6 +67,7 @@ A series of acts builds the largest structure of all: the *Story*.
 
 
 
+
 #### Archplot, Miniplot, Antiplot
 
 ### FORMAL DIFFERENCES WITHIN THE STORY TRIANGLE
