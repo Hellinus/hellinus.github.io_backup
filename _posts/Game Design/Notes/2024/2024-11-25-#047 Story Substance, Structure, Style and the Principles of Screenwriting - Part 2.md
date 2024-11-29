@@ -144,20 +144,114 @@ A series of acts builds the largest structure of all: the *Story*.
 
 ## 3 Structure and Setting
 ### THE WAR ON CLICHÈ
+The source of all clichés can be traced to one thing and one thing alone: ***The writer does not know the world of his story.***
 
 ### SETTING
+**A story’s SETTING is four-dimensional**—Period, Duration, Location, Level of Conflict.
+
+- PERIOD is a story’s place in time.
+- DURATION is a story’s length through time.
+- LOCATION is a story’s place in space.
+- LEVEL OF CONFLICT is the story’s position on the hierarchy of human struggles.
 
 #### The Relationship Between Structure and Setting
+A story’s setting sharply defines and confines its possibilities.
 
+**A STORY must obey its own internal laws of probability. The event choices of the writer, therefore, are limited to the possibilities and probabilities within the world he creates.**
 
 ### THE PRINCIPLE OF CREATIVE LIMITATION
+The world of a story must be **small** enough that the mind of a single artist can surround the fictional universe it creates and come to know it in the same depth and detail that God knows the one He created.
+
+- A “small” world, however, does not mean a trivial world.
+- “Commanding knowledge” does not mean an extended awareness into every crevice of existence.
+
+> The irony of setting versus story is this: The larger the world, the more diluted the knowledge of the writer, therefore the fewer his creative choices and the more clichéd the story. The smaller the world, the more complete the knowledge of the writer, therefore the greater his creative choices. Result: a fully original story and victory in the war on cliché.
 
 ### RESEARCH
+The key to winning this war is research, taking the time and effort to acquire knowledge.
 
 #### Memory
+1. Lean back from your desk and ask, “What do I know from personal experience that touches on my characters’ lives?”
+2. Write them down.
 
 #### Imagination
+1. Lean back and ask, “What would it be like to live my character’s life hour by hour, day by day?”
+2. Write them down.
 
 #### Fact
+Writer’s block - You’re blocked because you have nothing to say.
+Cure: library.
+
+> Research must not become procrastination. Too many insecure talents spend years in study and never actually write anything.
 
 ### CREATIVE CHOICES
+Creativity is five to one, perhaps ten or twenty to one.
+
+**CREATIVITY means creative choices of inclusion and exclusion.**
+
+1. Sketch a list of five, ten, fifteen different scenes.
+2. On and on the list grows. You needn’t write out these scenes in full.
+3. Once you’ve exhausted your best ideas, survey your list, asking these questions: Which scene is truest to my characters? Truest to their world? And has never been on the screen quite this way before? This is the one you write into the screenplay.
+
+## 4 Structure and Genre
+### THE FILM GENRES
+1. **LOVE STORY.**
+    - Buddy Salvation: substitutes friendship for romantic love.
+2. **HORROR FILM.**
+    - the Uncanny: the source of horror is astounding but subject to “rational” explanation, such as beings from outer space, science-made monsters, or a maniac.
+    - the Supernatural: the source of horror is an “irrational” phenomenon from the spirit realm.
+    - the Super-Uncanny: the audience is kept guessing between the other two possibilities.
+3. **MODERN EPIC.**
+4. **WESTERN.**
+5. **WAR GENRE.**
+    - **Pro-war.**
+    - **Antiwar.**
+6. **MATURATION PLOT.**
+7. **REDEMPTION PLOT.** The film arcs on a moral change within the protagonist from bad to good.
+8. **PUNITIVE PLOT.** The good guy turns bad and is punished.
+9. **TESTING PLOT.** Stories of willpower versus temptation to surrender.
+10. **EDUCATION PLOT.** This genre arcs on a deep change within the protagonist’s view of life, people, or self from the negative (naive, distrustful, fatalistic, self-hating) to the positive (wise, trusting, optimistic, self-possessed).
+11. **DISILLUSIONMENT PLOT.** A deep change of worldview from the positive to the negative.
+12. **COMEDY.** Differing by the focus of comic attack and the degree of ridicule.
+    - **Parody.**
+    - **Satire.**
+    - **Sitcom.**
+    - **Romantic.**
+    - **Screwball.**
+    - **Farce.**
+    - **Black Comedy.**
+13. **CRIME.** From whose point of view do we regard the crime?
+    - **Murder Mystery.** (master detective’s POV).
+    - **Caper.** (master criminal’s POV).
+    - **Detective.** (cop’s POV).
+    - **Gangster.** (crook’s POV).
+    - **Thriller.** (victim’s POV).
+    - **Revenge Tale.** (victim’s POV).
+    - **Courtroom.** (lawyer’s POV).
+    - **Newspaper.** (reporter’s POV).
+    - **Espionage.** (spy’s POV).
+    - **Prison Drama.** (inmate’s POV).
+    - **Film Noir.** (POV of a protagonist who may be part criminal, part detective, part victim of a femme fatale).
+14. **SOCIAL DRAMA.**
+
+
+
+### THE RELATIONSHIP BETWEEN STRUCTURE AND GENRE
+
+### MASTERY OF GENRE
+
+### CREATIVE LIMITATIONS
+
+### MIXING GENRES
+
+### REINVENTING GENRES
+
+#### The Western
+#### The Psycho-Drama
+#### The Love Story
+
+### THE GIFT OF ENDURANCE
+
+## 5 Structure and character
+
+## 6 Structure and Meaning
