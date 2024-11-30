@@ -232,26 +232,89 @@ Creativity is five to one, perhaps ten or twenty to one.
     - **Espionage.** (spy’s POV).
     - **Prison Drama.** (inmate’s POV).
     - **Film Noir.** (POV of a protagonist who may be part criminal, part detective, part victim of a femme fatale).
-14. **SOCIAL DRAMA.**
-
-
+14. **SOCIAL DRAMA.** This genre identifies problems in society—poverty, the education system, communicable diseases, the disadvantaged, antisocial rebellion, and the like—then constructs a story demonstrating a cure.
+    - **Domestic Drama** (problems within the family).
+    - **Woman’s Film** (dilemmas such as career versus family, lover versus children).
+    - **Political Drama** (corruption in politics).
+    - **Eco-Drama** (battles to save the environment).
+    - **Medical Drama** (struggles with physical illness).
+    - **Psycho-Drama** (struggles with mental illness).
+15. **ACTION/ADVENTURE.**
+    - **High Adventure.** THE MAN WHO WOULD BE KING.
+    - **Disaster/Survival Film.** If Mother Nature is the source of antagonism.
+16. **HISTORICAL DRAMA.**
+17. **BIOGRAPHY.**
+18. **DOCU-DRAMA.**
+19. **MOCKUMENTARY.**
+20. **MUSICAL.**
+21. **SCIENCE FICTION.**
+22. **SPORTS GENRE.**
+23. **FANTASY.**
+24. **ANIMATION.**
+25. **ART FILM.**
 
 ### THE RELATIONSHIP BETWEEN STRUCTURE AND GENRE
+**GENRE CONVENTIONS are specific settings, roles, events, and values that define individual genres and their subgenres.**
+
+Each genre has unique conventions, but in some these are relatively uncomplicated and pliable. Other genres are relatively inflexible and filled with a complex of rigid conventions.
 
 ### MASTERY OF GENRE
+You must not only respect but master your genre and its conventions.
+
+1. List all those works you feel are like yours, both successes and failures.
+2. Rent the films on video and purchase the screenplays if possible.
+3. Study the films stop and go, turning pages with the screen, breaking each film down into elements of setting, role, event, and value.
+4. Stack, so to speak, these analyses one atop the other and look down through them all asking: What do the stories in my genre always do? What are its conventions of time, place, character, and action? Until you discover answers, the audience will always be ahead of you.
+
+**To anticipate the anticipations of the audience you must master your genre and its conventions.**
 
 ### CREATIVE LIMITATIONS
+The principle of Creative Limitation calls for freedom within a circle of obstacles.
+
+Genre conventions are the rhyme scheme of a storyteller’s “poem.” They do not inhibit creativity, they inspire it. Genre convention is a Creative Limitation that forces the writer’s imagination to rise to the occasion.
 
 ### MIXING GENRES
+Genres are frequently combined to resonate with meaning, to enrich character, and to create varieties of mood and emotion.
 
 ### REINVENTING GENRES
-
-#### The Western
-#### The Psycho-Drama
-#### The Love Story
+Society changes slowly, but it does change, and as society enters each new phase, the genres transform with it.
 
 ### THE GIFT OF ENDURANCE
+Screen-writing is not for sprinters, but for long-distance runners.
+
+**Long before you finish, the love of self will rot and die, the love of ideas sicken and perish.**
 
 ## 5 Structure and character
+Structure is character; character is structure.
+
+### CHARACTER VERSUS CHARACTERIZATION
+*Characterization* is the sum of all observable qualities of a human being, everything knowable through careful scrutiny: age and IQ; sex and sexuality; style of speech and gesture; choices of home, car, and dress; education and occupation; personality and nervosity; values and attitudes—all aspects of humanity we could know by taking notes on someone day in and day out. The totality of these traits makes each person unique because each of us is a one-of-a-kind combination of genetic givens and accumulated experience. This singular assemblage of traits is characterization … but it is not *character*.
+
+**TRUE CHARACTER is revealed in the choices a human being makes under pressure—the greater the pressure, the deeper the revelation, the truer the choice to the character’s essential nature.**
+
+Pressure is essential. Choices made when nothing is at risk mean little.
+
+### CHARACTER REVELATION
+
+### CHARACTER ARC
+
+### STRUCTURE AND CHARACTER FUNCTIONS
+
+### CLIMAX AND CHARACTER
 
 ## 6 Structure and Meaning
+### AESTHETIC EMOTION
+
+### PREMISE
+
+### STRUCTURE AS RHETORIC
+
+### CONTROLLING IDEA
+
+#### Meaning and the Creative Process
+
+#### Idea Versus Counter-Idea
+
+### DIDACTICISM
+
+### IDEALIST, PESSIMIST, IRONIST
