@@ -36,10 +36,10 @@ order: 5
 ![line](assets/img/About/line.png)
 
 ## **项目经历**
-- [**Deep Hunting**](https://hellinus.com/posts/Deep-Hunting/)<br>
+- [**Deep Hunting**](https://cyyanhan.com/posts/Deep-Hunting/)<br>
     `个人项目` `故事驱动` `冒险` `恐怖` `超现实` `赛博朋克` `2D` `Unity`
 
-- [**Yao | 女儿谣**](https://hellinus.com/posts/Yao/)<br>
+- [**Yao | 女儿谣**](https://cyyanhan.com/posts/Yao/)<br>
     `西山居Seed训练营团队作品` `故事驱动` `惊悚` `类烟火` `2D` `Unity`
     1. 玩家扮演追名逐利的记者余虹，在偏远农村意外碰到因“谣言”而起的自杀案，体验她在调查报道中逐渐醒悟，却又发现自己也将被谣言吞噬的故事。
     2. 负责内容：
@@ -47,7 +47,7 @@ order: 5
         - 技术策划，和程序沟通交流、安排工作；
         - 场景环境氛围、美术特效构建；
         - 音效设计、配音配置。
-- [**Universe Unveiled \| 寰宇揭纱**](https://hellinus.com/posts/Universe-Unveiled/)<br>
+- [**Universe Unveiled \| 寰宇揭纱**](https://cyyanhan.com/posts/Universe-Unveiled/)<br>
     `个人项目` `科普游戏` `太阳系` `卫星变轨` `3D` `Unity`
     1. 玩家控制一艘来到太阳系的外星飞船，通过变轨接近各个行星收集数据，直观感受到在太阳系穿梭、体验学习到太空变轨和万有引力。
     2. 负责内容：
@@ -69,7 +69,7 @@ order: 5
         - 总结原理并实际搭建测试；
         - 技术支持，技术可行性测试。
 
-- [**Level Design - Snow Mountain**](https://hellinus.com/posts/Level-Design-Snow-Mountain/)<br>
+- [**Level Design - Snow Mountain**](https://cyyanhan.com/posts/Level-Design-Snow-Mountain/)<br>
     `关卡设计练习` `FPS` `类 COD` `3D` `Unity`
     1. 玩家控制一位士兵和队友深入敌人在雪山中的基地，夺取任务目标并逃离。
     2. 负责内容：
