@@ -1,5 +1,5 @@
 ---
-title: "#047 Story Substance, Structure, Style and the Principles of Screenwriting - Part 2 The Elements of Story"
+title: "#042 Story Substance, Structure, Style and the Principles of Screenwriting - Part 2 The Elements of Story"
 date: 2024-12-04 00:00:00 +0800
 categories: [Game Design, Notes]
 tags: [Writing]

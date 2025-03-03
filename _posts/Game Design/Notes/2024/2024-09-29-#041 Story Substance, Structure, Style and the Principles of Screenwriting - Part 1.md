@@ -1,5 +1,5 @@
 ---
-title: "#046 Story Substance, Structure, Style and the Principles of Screenwriting - Part 1 The Writer and the Art of Story"
+title: "#041 Story Substance, Structure, Style and the Principles of Screenwriting - Part 1 The Writer and the Art of Story"
 date: 2024-09-29 00:00:00 +0800
 categories: [Game Design, Notes]
 tags: [Writing]
