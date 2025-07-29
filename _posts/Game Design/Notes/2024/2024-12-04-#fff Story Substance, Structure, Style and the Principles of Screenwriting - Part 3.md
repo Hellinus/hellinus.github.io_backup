@@ -73,10 +73,23 @@ THE THREE LEVELS OF CONFLICT:
 ### THE GAP
 **STORY is born in that place where the subjective and objective realms touch.**
 
-### ON RISK
+> The protagonist seeks an object of desire beyond his reach. Consciously or unconsciously he chooses to take a particular action, motivated by the thought or feeling that this act will cause the world to react in a way that will be a positive step toward achieving his desire.
+>
+> Rather than evoking cooperation from his world, his action provokes forces of antagonism that open up the gap between his subjective expectation and the objective result, between what he thought would happen when he took his action and what in fact does happen between his sense of probability and true necessity.
 
+Necessity is what must and does actually happen, as opposed to probability, which is what character hopes or expects to happen.
+
+Once the gap in reality splits open, the character, being willful and having capacity, senses or realizes that he cannot get what he wants in a minimal, conservative way. He must gather himself and struggle through this gap to take a second action. This next action is something the character would not have wanted to do in the first case because it not only demands more willpower and forces him to dig more deeply into his human capacity, but most important, the second action puts him at risk. He now stands to lose in order to gain.
+
+### ON RISK
+**The measure of the value of a character’s desire is in direct proportion to the risk he’s willing to take to achieve it; the greater the value, the greater the risk.**
+
+> Here’s a simple test to apply to any story. Ask: What is the risk? What does the protagonist stand to lose if he does not get what he wants? More specifically, what’s the worst thing that will happen to the protagonist if he does not achieve his desire?
+>
+> If this question cannot be answered in a compelling way, the story is misconceived at its core. For example, if the answer is: “Should the protagonist fail, life would go back to normal,” this story is not worth telling.
 
 ### THE GAP IN PROGRESSION
+
 
 ### WRITING FROM THE INSIDE OUT
 

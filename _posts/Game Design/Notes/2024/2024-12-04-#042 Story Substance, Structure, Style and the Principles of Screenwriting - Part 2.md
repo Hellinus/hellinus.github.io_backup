@@ -117,7 +117,7 @@ A series of acts builds the largest structure of all: the *Story*.
 
 **A story that either skips helter-skelter through time or so blurs temporal continuity that the audience cannot sort out what happens before and after what is told in NONLINEAR TIME.**
 
-#### Causality Versus Coincidenc
+#### Causality Versus Coincidence
 - The Archplot stresses how things happen in the world, how a cause creates an effect, how this effect becomes a cause that triggers yet another effect.
 - The Antiplot, on the other hand, often substitutes coincidence for causality, putting emphasis on the random collisions of things in the universe that break the chains of causality and **lead to fragmentation, meaninglessness, and absurdity.**
 
